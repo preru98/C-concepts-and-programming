@@ -1,0 +1,6 @@
+E:\MCA JIMS\Practical\C#\quesOne\quesOne\bin\Debug\quesOne.exe.config
+E:\MCA JIMS\Practical\C#\quesOne\quesOne\bin\Debug\quesOne.exe
+E:\MCA JIMS\Practical\C#\quesOne\quesOne\bin\Debug\quesOne.pdb
+E:\MCA JIMS\Practical\C#\quesOne\quesOne\obj\Debug\quesOne.csprojResolveAssemblyReference.cache
+E:\MCA JIMS\Practical\C#\quesOne\quesOne\obj\Debug\quesOne.exe
+E:\MCA JIMS\Practical\C#\quesOne\quesOne\obj\Debug\quesOne.pdb
