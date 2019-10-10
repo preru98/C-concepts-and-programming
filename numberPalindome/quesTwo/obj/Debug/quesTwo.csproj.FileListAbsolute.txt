@@ -1,0 +1,6 @@
+E:\MCA JIMS\Practical\C#\quesTwo\quesTwo\bin\Debug\quesTwo.exe.config
+E:\MCA JIMS\Practical\C#\quesTwo\quesTwo\bin\Debug\quesTwo.exe
+E:\MCA JIMS\Practical\C#\quesTwo\quesTwo\bin\Debug\quesTwo.pdb
+E:\MCA JIMS\Practical\C#\quesTwo\quesTwo\obj\Debug\quesTwo.csprojResolveAssemblyReference.cache
+E:\MCA JIMS\Practical\C#\quesTwo\quesTwo\obj\Debug\quesTwo.exe
+E:\MCA JIMS\Practical\C#\quesTwo\quesTwo\obj\Debug\quesTwo.pdb
