@@ -1,0 +1,6 @@
+E:\MCA JIMS\Practical\C#\quesThree\quesThree\bin\Debug\quesThree.exe.config
+E:\MCA JIMS\Practical\C#\quesThree\quesThree\bin\Debug\quesThree.exe
+E:\MCA JIMS\Practical\C#\quesThree\quesThree\bin\Debug\quesThree.pdb
+E:\MCA JIMS\Practical\C#\quesThree\quesThree\obj\Debug\quesThree.csprojResolveAssemblyReference.cache
+E:\MCA JIMS\Practical\C#\quesThree\quesThree\obj\Debug\quesThree.exe
+E:\MCA JIMS\Practical\C#\quesThree\quesThree\obj\Debug\quesThree.pdb
