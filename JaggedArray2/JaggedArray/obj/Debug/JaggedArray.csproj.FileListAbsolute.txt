@@ -1,0 +1,6 @@
+E:\MCA JIMS\Practical\C#\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe.config
+E:\MCA JIMS\Practical\C#\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe
+E:\MCA JIMS\Practical\C#\JaggedArray\JaggedArray\bin\Debug\JaggedArray.pdb
+E:\MCA JIMS\Practical\C#\JaggedArray\JaggedArray\obj\Debug\JaggedArray.exe
+E:\MCA JIMS\Practical\C#\JaggedArray\JaggedArray\obj\Debug\JaggedArray.pdb
+E:\MCA JIMS\Practical\C#\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csprojResolveAssemblyReference.cache
