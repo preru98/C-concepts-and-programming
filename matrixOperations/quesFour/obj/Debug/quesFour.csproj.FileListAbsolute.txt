@@ -1,0 +1,6 @@
+E:\MCA JIMS\Practical\C#\quesFour\quesFour\bin\Debug\quesFour.exe.config
+E:\MCA JIMS\Practical\C#\quesFour\quesFour\bin\Debug\quesFour.exe
+E:\MCA JIMS\Practical\C#\quesFour\quesFour\bin\Debug\quesFour.pdb
+E:\MCA JIMS\Practical\C#\quesFour\quesFour\obj\Debug\quesFour.csprojResolveAssemblyReference.cache
+E:\MCA JIMS\Practical\C#\quesFour\quesFour\obj\Debug\quesFour.exe
+E:\MCA JIMS\Practical\C#\quesFour\quesFour\obj\Debug\quesFour.pdb
