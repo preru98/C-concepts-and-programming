@@ -1,0 +1,6 @@
+E:\MCA JIMS\Practical\C#\DelegateIllustration\DelegateIllustration\bin\Debug\DelegateIllustration.exe.config
+E:\MCA JIMS\Practical\C#\DelegateIllustration\DelegateIllustration\bin\Debug\DelegateIllustration.exe
+E:\MCA JIMS\Practical\C#\DelegateIllustration\DelegateIllustration\bin\Debug\DelegateIllustration.pdb
+E:\MCA JIMS\Practical\C#\DelegateIllustration\DelegateIllustration\obj\Debug\DelegateIllustration.csprojResolveAssemblyReference.cache
+E:\MCA JIMS\Practical\C#\DelegateIllustration\DelegateIllustration\obj\Debug\DelegateIllustration.exe
+E:\MCA JIMS\Practical\C#\DelegateIllustration\DelegateIllustration\obj\Debug\DelegateIllustration.pdb
