@@ -1,0 +1,6 @@
+E:\MCA JIMS\Practical\C#\passBy\passBy\bin\Debug\passBy.exe.config
+E:\MCA JIMS\Practical\C#\passBy\passBy\bin\Debug\passBy.exe
+E:\MCA JIMS\Practical\C#\passBy\passBy\bin\Debug\passBy.pdb
+E:\MCA JIMS\Practical\C#\passBy\passBy\obj\Debug\passBy.csprojResolveAssemblyReference.cache
+E:\MCA JIMS\Practical\C#\passBy\passBy\obj\Debug\passBy.exe
+E:\MCA JIMS\Practical\C#\passBy\passBy\obj\Debug\passBy.pdb
