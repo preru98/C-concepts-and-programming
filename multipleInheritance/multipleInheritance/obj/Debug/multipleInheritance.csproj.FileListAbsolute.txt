@@ -1,0 +1,6 @@
+E:\MCA JIMS\Practical\C#\multipleInheritance\multipleInheritance\bin\Debug\multipleInheritance.exe.config
+E:\MCA JIMS\Practical\C#\multipleInheritance\multipleInheritance\bin\Debug\multipleInheritance.exe
+E:\MCA JIMS\Practical\C#\multipleInheritance\multipleInheritance\bin\Debug\multipleInheritance.pdb
+E:\MCA JIMS\Practical\C#\multipleInheritance\multipleInheritance\obj\Debug\multipleInheritance.csprojResolveAssemblyReference.cache
+E:\MCA JIMS\Practical\C#\multipleInheritance\multipleInheritance\obj\Debug\multipleInheritance.exe
+E:\MCA JIMS\Practical\C#\multipleInheritance\multipleInheritance\obj\Debug\multipleInheritance.pdb
