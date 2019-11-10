@@ -1,0 +1,5 @@
+E:\MCA JIMS\Practical\C#\Lambda\Lambda\bin\Debug\Lambda.exe.config
+E:\MCA JIMS\Practical\C#\Lambda\Lambda\bin\Debug\Lambda.exe
+E:\MCA JIMS\Practical\C#\Lambda\Lambda\bin\Debug\Lambda.pdb
+E:\MCA JIMS\Practical\C#\Lambda\Lambda\obj\Debug\Lambda.exe
+E:\MCA JIMS\Practical\C#\Lambda\Lambda\obj\Debug\Lambda.pdb
