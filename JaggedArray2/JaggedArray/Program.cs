@@ -50,7 +50,6 @@ namespace jagged
                 for (int j = 0; j < array[i].Length; j++)
                     Console.Write(array[i][j]+"  ");
             }
-            
 
         }
     }
@@ -58,7 +57,6 @@ namespace jagged
     {
         static void Main(string[] args)
         {
-
             jaggedArray J = new jaggedArray();
             J.construct(5);
             J.show();
