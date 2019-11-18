@@ -27,8 +27,6 @@ namespace quesOne
 
                 while (c <= num)
                 {
-                    //Console.WriteLine(c);
-                    //Console.WriteLine(n);
                     c = a + b;
                     if (num == c)
                     {
