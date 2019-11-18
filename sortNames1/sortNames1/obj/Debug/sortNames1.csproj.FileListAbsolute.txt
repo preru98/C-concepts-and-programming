@@ -1,0 +1,6 @@
+E:\MCA JIMS\Practical\C#\sortNames1\sortNames1\bin\Debug\sortNames1.exe.config
+E:\MCA JIMS\Practical\C#\sortNames1\sortNames1\bin\Debug\sortNames1.exe
+E:\MCA JIMS\Practical\C#\sortNames1\sortNames1\bin\Debug\sortNames1.pdb
+E:\MCA JIMS\Practical\C#\sortNames1\sortNames1\obj\Debug\sortNames1.exe
+E:\MCA JIMS\Practical\C#\sortNames1\sortNames1\obj\Debug\sortNames1.pdb
+E:\MCA JIMS\Practical\C#\sortNames1\sortNames1\obj\Debug\sortNames1.csprojResolveAssemblyReference.cache
