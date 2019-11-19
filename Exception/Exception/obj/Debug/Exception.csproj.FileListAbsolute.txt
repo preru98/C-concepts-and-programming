@@ -1,0 +1,6 @@
+E:\MCA JIMS\Practical\C#\Exception\Exception\bin\Debug\Exception.exe.config
+E:\MCA JIMS\Practical\C#\Exception\Exception\bin\Debug\Exception.exe
+E:\MCA JIMS\Practical\C#\Exception\Exception\bin\Debug\Exception.pdb
+E:\MCA JIMS\Practical\C#\Exception\Exception\obj\Debug\Exception.csprojResolveAssemblyReference.cache
+E:\MCA JIMS\Practical\C#\Exception\Exception\obj\Debug\Exception.exe
+E:\MCA JIMS\Practical\C#\Exception\Exception\obj\Debug\Exception.pdb
