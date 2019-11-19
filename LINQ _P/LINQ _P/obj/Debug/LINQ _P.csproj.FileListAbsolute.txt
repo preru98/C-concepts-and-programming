@@ -1,0 +1,6 @@
+E:\MCA JIMS\Practical\C#\LINQ _P\LINQ _P\bin\Debug\LINQ _P.exe.config
+E:\MCA JIMS\Practical\C#\LINQ _P\LINQ _P\bin\Debug\LINQ _P.exe
+E:\MCA JIMS\Practical\C#\LINQ _P\LINQ _P\bin\Debug\LINQ _P.pdb
+E:\MCA JIMS\Practical\C#\LINQ _P\LINQ _P\obj\Debug\LINQ _P.csprojResolveAssemblyReference.cache
+E:\MCA JIMS\Practical\C#\LINQ _P\LINQ _P\obj\Debug\LINQ _P.exe
+E:\MCA JIMS\Practical\C#\LINQ _P\LINQ _P\obj\Debug\LINQ _P.pdb
