@@ -1,0 +1,6 @@
+E:\MCA JIMS\Practical\C#\ArrayOccurence\ArrayOccurence\bin\Debug\ArrayOccurence.exe.config
+E:\MCA JIMS\Practical\C#\ArrayOccurence\ArrayOccurence\bin\Debug\ArrayOccurence.exe
+E:\MCA JIMS\Practical\C#\ArrayOccurence\ArrayOccurence\bin\Debug\ArrayOccurence.pdb
+E:\MCA JIMS\Practical\C#\ArrayOccurence\ArrayOccurence\obj\Debug\ArrayOccurence.csprojResolveAssemblyReference.cache
+E:\MCA JIMS\Practical\C#\ArrayOccurence\ArrayOccurence\obj\Debug\ArrayOccurence.exe
+E:\MCA JIMS\Practical\C#\ArrayOccurence\ArrayOccurence\obj\Debug\ArrayOccurence.pdb
