@@ -1,0 +1,6 @@
+E:\MCA JIMS\Practical\C#\EventOne\EventOne\bin\Debug\EventOne.exe.config
+E:\MCA JIMS\Practical\C#\EventOne\EventOne\bin\Debug\EventOne.exe
+E:\MCA JIMS\Practical\C#\EventOne\EventOne\bin\Debug\EventOne.pdb
+E:\MCA JIMS\Practical\C#\EventOne\EventOne\obj\Debug\EventOne.csprojResolveAssemblyReference.cache
+E:\MCA JIMS\Practical\C#\EventOne\EventOne\obj\Debug\EventOne.exe
+E:\MCA JIMS\Practical\C#\EventOne\EventOne\obj\Debug\EventOne.pdb
