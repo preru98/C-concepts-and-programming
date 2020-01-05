@@ -1,6 +1,0 @@
-E:\MCA JIMS\Practical\C#\anonymousDelegate\anonymousDelegate\bin\Debug\anonymousDelegate.exe.config
-E:\MCA JIMS\Practical\C#\anonymousDelegate\anonymousDelegate\bin\Debug\anonymousDelegate.exe
-E:\MCA JIMS\Practical\C#\anonymousDelegate\anonymousDelegate\bin\Debug\anonymousDelegate.pdb
-E:\MCA JIMS\Practical\C#\anonymousDelegate\anonymousDelegate\obj\Debug\anonymousDelegate.csprojResolveAssemblyReference.cache
-E:\MCA JIMS\Practical\C#\anonymousDelegate\anonymousDelegate\obj\Debug\anonymousDelegate.exe
-E:\MCA JIMS\Practical\C#\anonymousDelegate\anonymousDelegate\obj\Debug\anonymousDelegate.pdb
