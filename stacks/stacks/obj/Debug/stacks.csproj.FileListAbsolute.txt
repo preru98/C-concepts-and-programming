@@ -1,0 +1,6 @@
+E:\MCA JIMS\Practical\C#\stacks\stacks\bin\Debug\stacks.exe.config
+E:\MCA JIMS\Practical\C#\stacks\stacks\bin\Debug\stacks.exe
+E:\MCA JIMS\Practical\C#\stacks\stacks\bin\Debug\stacks.pdb
+E:\MCA JIMS\Practical\C#\stacks\stacks\obj\Debug\stacks.csprojResolveAssemblyReference.cache
+E:\MCA JIMS\Practical\C#\stacks\stacks\obj\Debug\stacks.exe
+E:\MCA JIMS\Practical\C#\stacks\stacks\obj\Debug\stacks.pdb
